@@ -2,16 +2,21 @@
 Hack-A-Week 19: A personal site built with React
 
 ### Usage:
-- Visit https://ztaira14.github.io/
+- Visit https://ztaira14.github.io/#/
 
 ### Features:
 - Easy way to display the things I've been up to
+
+### Why I made this:
+- This seemed like a good excuse to learn how to use React
 
 ### What I liked:
 The component-based architecture of React makes it very easy to break up your
 massive HTML document into small, intuitive components. As a result, creating
 a layout is much easier, since you only have to remember state and props for a
 single component rather than the entire webpage.
+
+Also, import statements are great.
 
 ### What I didn't like:
 While the javascript is loading, the initial page is noticeably blank. This isn't
